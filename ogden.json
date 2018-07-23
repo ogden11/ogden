@@ -2,7 +2,7 @@
   {
     "id": 145,
     "name": "Parian Este World",
-    "imageUrl": "https://raw.githubusercontent.com/rybaladad/elyu/master/city.PNG",
+    "imageUrl": "https://raw.githubusercontent.com/ogden11/ogden/master/1.jpg",
     "price": 90,
     "priceCurrency": "PESO",
     "lat": 16.516755,
@@ -11,7 +11,7 @@
   {
     "id": 148,
     "name": "Flotsom and Jetsom",
-    "imageUrl": "https://raw.githubusercontent.com/rybaladad/elyu/master/1.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/ogden11/ogden/master/2.jpg",
     "price": 200,
     "priceCurrency": "PESO",
     "lat": 16.658226,
@@ -20,7 +20,7 @@
   {
     "id": 201,
     "name": "Kahuna Resort",
-    "imageUrl": "https://raw.githubusercontent.com/rybaladad/elyu/master/2.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/ogden11/ogden/master/3.jpg",
     "price": 150,
     "priceCurrency": "PESO",
     "lat": 16.658226,
@@ -29,7 +29,7 @@
   {
     "id": 205,
     "name": "New York City",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat4.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/ogden11/ogden/master/4.jpg",
     "price": 115,
     "priceCurrency": "PESO",
     "lat": 40.712775,
@@ -38,7 +38,7 @@
   {
     "id": 210,
     "name": "Paris France",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat5.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/ogden11/ogden/master/5.jpg",
     "price": 135,
     "priceCurrency": "PESO",
     "lat": 48.856614,
@@ -47,7 +47,7 @@
   {
     "id": 211,
     "name": "Tokyo Japan",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat6.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/ogden11/ogden/master/6.jpg",
     "price": 90,
     "priceCurrency": "PESO",
     "lat": 35.689487,
